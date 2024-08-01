@@ -1,0 +1,28 @@
+#################### settings for training ####################
+TRAIN_RUN_NAME: test
+
+D_MODEL: 256 # The dimensionality of the embedding layer
+N_HEADS: 8 # The number of heads in the multi-head attention layers
+N_ENCODER_LAYERS: 6 # number of encoder layers
+N_DECODER_LAYERS: 6 # number of decoder layers
+DIM_FEEDFORWARD: 512 # hidden dimension of the position wise feed forward layer
+
+EPOCHS: 2 # number of epochs
+DROPOUT: 0.2 # droput rate
+BATCH_SIZE: 8 # number of batches
+STEP_SIZE: 1 # or can be reduced to 1
+RANDOM_BATCHES: True # whether the dataloaders should use random samples from the full training set
+LABEL_SMOOTHING: 0.0 # label smoothing in the cross entropy loss function
+
+WEIGHT_DECAY: 0.0001 # weight decay for the AdamW optimizer
+WARMUP_STEPS: 4_000 # number of warmup steps for the learning rate scheduler
+N_TRAINING_BATCHES: 3
+
+MAX_LEN: 75 # The maximum length of the input sequence
+VOCAB_SIZE: 50_000 # Number of distinct tokens the model will see. Is set by the tokenizer
+
+log_level: 20 # 10=DEBUG, 20=INFO
+log_format: "%(message)s - %(levelname)s - %(asctime)s - %(name)s"
+
+#################### settings for sampling ####################
+SAMPLE_RUN_NAME: dev_gpu_2024-02-02_15-08-33

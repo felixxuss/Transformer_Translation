@@ -1,0 +1,14 @@
+BLEU on 501 test samples:
+BLEU-1: 0.4254
+BLEU-2: 0.2385
+BLEU-3: 0.1462
+BLEU-4: 0.0937
+
+BLEU on 543 val samples:
+BLEU-1: 0.4372
+BLEU-2: 0.2539
+BLEU-3: 0.1609
+BLEU-4: 0.1072
+
+
+

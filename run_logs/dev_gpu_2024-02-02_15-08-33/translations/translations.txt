@@ -1,0 +1,300 @@
+
+----------------------------------------  train - Epoch 1  ----------------------------------------
+English sentence: ur rooms offer all modern comforts and conveniences.
+German sentence: en en en en en en en en en en en en en en en en en en en en en en en en en en e
+----------------------------------------  train - Epoch 1  ----------------------------------------
+
+----------------------------------------  val - Epoch 1  ----------------------------------------
+English sentence: marco rubio with only 21 percent.
+German sentence: en en en en en en en en en en en en en en en en en en en en en en en en en en e
+----------------------------------------  val - Epoch 1  ----------------------------------------
+
+----------------------------------------  train - Epoch 2  ----------------------------------------
+English sentence: 5.build a more robust and integrated economic governance.
+German sentence: die aniste der aunder der aunden der aner un.
+----------------------------------------  train - Epoch 2  ----------------------------------------
+
+----------------------------------------  val - Epoch 2  ----------------------------------------
+English sentence: this is a day of healing.
+German sentence: die ast in die sine de aniner an.
+----------------------------------------  val - Epoch 2  ----------------------------------------
+
+----------------------------------------  train - Epoch 3  ----------------------------------------
+English sentence: the total prize
+German sentence: eropäische pressen
+----------------------------------------  train - Epoch 3  ----------------------------------------
+
+----------------------------------------  val - Epoch 3  ----------------------------------------
+English sentence: how to share your stories, pictures and videos with bbc news
+German sentence: was ist der beiteren wir der besteiten sicht die beresenten sichten?
+----------------------------------------  val - Epoch 3  ----------------------------------------
+
+----------------------------------------  train - Epoch 4  ----------------------------------------
+English sentence: that legislation is therefore contrary to the directive.
+German sentence: die aussen die ersten sich die auf der rechtigen.
+----------------------------------------  train - Epoch 4  ----------------------------------------
+
+----------------------------------------  val - Epoch 4  ----------------------------------------
+English sentence: un chief says there is no military solution in syria
+German sentence: der intern sie in der europäische in der ration
+----------------------------------------  val - Epoch 4  ----------------------------------------
+
+----------------------------------------  train - Epoch 5  ----------------------------------------
+English sentence: nauvoo the headquarters of the church 1839-46.
+German sentence: der anteratier der statter der europa 16.3.
+----------------------------------------  train - Epoch 5  ----------------------------------------
+
+----------------------------------------  val - Epoch 5  ----------------------------------------
+English sentence: and they are angry at washington, too.
+German sentence: das wird war nicht ein gegen statten sie statt.
+----------------------------------------  val - Epoch 5  ----------------------------------------
+
+----------------------------------------  train - Epoch 6  ----------------------------------------
+English sentence: background
+German sentence: hintergrund
+----------------------------------------  train - Epoch 6  ----------------------------------------
+
+----------------------------------------  val - Epoch 6  ----------------------------------------
+English sentence: trumps favorability ratings have turned 180 degrees.
+German sentence: die stellung der fahren sie der vertragstreter 1800 uhr stattt.
+----------------------------------------  val - Epoch 6  ----------------------------------------
+
+----------------------------------------  train - Epoch 7  ----------------------------------------
+English sentence: multilingualism in the eu
+German sentence: die millitung der eu-minister
+----------------------------------------  train - Epoch 7  ----------------------------------------
+
+----------------------------------------  val - Epoch 7  ----------------------------------------
+English sentence: he was married and had three young children.
+German sentence: das ist ein große der regiert der auswählte geschinde.
+----------------------------------------  val - Epoch 7  ----------------------------------------
+
+----------------------------------------  train - Epoch 8  ----------------------------------------
+English sentence: the commission insists on this, and so does parliament.
+German sentence: diese kommissarin hat eine kommissar nicht angeschlossen.
+----------------------------------------  train - Epoch 8  ----------------------------------------
+
+----------------------------------------  val - Epoch 8  ----------------------------------------
+English sentence: michael j. fox jokes about his date with princess diana
+German sentence: die stadten sie die ausschuss in der ersten werden.
+----------------------------------------  val - Epoch 8  ----------------------------------------
+
+----------------------------------------  train - Epoch 9  ----------------------------------------
+English sentence: provide them with a channel for their opinions!
+German sentence: die produktion ist der eine produkte der privation!
+----------------------------------------  train - Epoch 9  ----------------------------------------
+
+----------------------------------------  val - Epoch 9  ----------------------------------------
+English sentence: ok, if you cant afford it...
+German sentence: für ihre für die für die facto....
+----------------------------------------  val - Epoch 9  ----------------------------------------
+
+----------------------------------------  train - Epoch 10  ----------------------------------------
+English sentence:  display of informationen, such as announcements etc.
+German sentence: die erste informationen und eine stand konsultation.
+----------------------------------------  train - Epoch 10  ----------------------------------------
+
+----------------------------------------  val - Epoch 10  ----------------------------------------
+English sentence: others have dismissed him as a joke.
+German sentence: diese sind die meisten seine sehr gesagt.
+----------------------------------------  val - Epoch 10  ----------------------------------------
+
+----------------------------------------  train - Epoch 11  ----------------------------------------
+English sentence: read this book and reach your goals...
+German sentence: die droht der solche bereit auch auch an der...
+----------------------------------------  train - Epoch 11  ----------------------------------------
+
+----------------------------------------  val - Epoch 11  ----------------------------------------
+English sentence: and these numbers hold up in early states.
+German sentence: und die stellt die staaten sich auf dem spanieren.
+----------------------------------------  val - Epoch 11  ----------------------------------------
+
+----------------------------------------  train - Epoch 12  ----------------------------------------
+English sentence: the dakota being dismantled in may 1947.
+German sentence: die kamer ist das beschlagten 1947 milliarden.
+----------------------------------------  train - Epoch 12  ----------------------------------------
+
+----------------------------------------  val - Epoch 12  ----------------------------------------
+English sentence: lamb grew up in the area.
+German sentence: marge berien wir das para ein weiter.
+----------------------------------------  val - Epoch 12  ----------------------------------------
+
+----------------------------------------  train - Epoch 13  ----------------------------------------
+English sentence: we must deal with this.
+German sentence: wir müssen das schwierig.
+----------------------------------------  train - Epoch 13  ----------------------------------------
+
+----------------------------------------  val - Epoch 13  ----------------------------------------
+English sentence: exquisite folk from sufjan stevens in hamburg
+German sentence: fragen der externe fragen von handels justing
+----------------------------------------  val - Epoch 13  ----------------------------------------
+
+----------------------------------------  train - Epoch 14  ----------------------------------------
+English sentence: it is those methods that we need to fight terrorism.
+German sentence: es ist die menschen der anderen anderen angeboten ausgestattet.
+----------------------------------------  train - Epoch 14  ----------------------------------------
+
+----------------------------------------  val - Epoch 14  ----------------------------------------
+English sentence: and they are angry at washington, too.
+German sentence: und das hat ein strategie zu schon gegen.
+----------------------------------------  val - Epoch 14  ----------------------------------------
+
+----------------------------------------  train - Epoch 15  ----------------------------------------
+English sentence: the great bank escape
+German sentence: die große tabaken
+----------------------------------------  train - Epoch 15  ----------------------------------------
+
+----------------------------------------  val - Epoch 15  ----------------------------------------
+English sentence: are there topics you want to get the world talking about?
+German sentence: sind die auf der welt der welt der weltbar auf dem bestellen?
+----------------------------------------  val - Epoch 15  ----------------------------------------
+
+----------------------------------------  train - Epoch 16  ----------------------------------------
+English sentence: (*) estimation
+German sentence: * (*) interkunft
+----------------------------------------  train - Epoch 16  ----------------------------------------
+
+----------------------------------------  val - Epoch 16  ----------------------------------------
+English sentence: but they could count on goalkeeper manuel neuer.
+German sentence: die beide derzeit konten europäische europäische union europa.
+----------------------------------------  val - Epoch 16  ----------------------------------------
+
+----------------------------------------  train - Epoch 17  ----------------------------------------
+English sentence: germany3,4 2,4 1592 1211 13144 9808
+German sentence: deutschland4,32 45,12 19 1121 104 8194 188
+----------------------------------------  train - Epoch 17  ----------------------------------------
+
+----------------------------------------  val - Epoch 17  ----------------------------------------
+English sentence: are there topics you want to get the world talking about?
+German sentence: sind die positiv welt der welt der welt beginnen?
+----------------------------------------  val - Epoch 17  ----------------------------------------
+
+----------------------------------------  train - Epoch 18  ----------------------------------------
+English sentence: hashmat ghani ahmadzai is their ethnic leader.
+German sentence: shammaghani hat madiza ist die rechtsvorschriften.
+----------------------------------------  train - Epoch 18  ----------------------------------------
+
+----------------------------------------  val - Epoch 18  ----------------------------------------
+English sentence: the only candidate who beats him?
+German sentence: das könnte die webseite das mimmer?
+----------------------------------------  val - Epoch 18  ----------------------------------------
+
+----------------------------------------  train - Epoch 19  ----------------------------------------
+English sentence: commissioner michel said: 
+German sentence: kommissar michel erklärte: 
+----------------------------------------  train - Epoch 19  ----------------------------------------
+
+----------------------------------------  val - Epoch 19  ----------------------------------------
+English sentence: roughly three in 10 say they have a negative view.
+German sentence: unsere holen ist es 10 jahren eine gegeben werden.
+----------------------------------------  val - Epoch 19  ----------------------------------------
+
+----------------------------------------  train - Epoch 20  ----------------------------------------
+English sentence: thank you very much, commissioner, for that reassurance.
+German sentence: vielen dank, herr kommissar, für diese antwort.
+----------------------------------------  train - Epoch 20  ----------------------------------------
+
+----------------------------------------  val - Epoch 20  ----------------------------------------
+English sentence: this date is no longer tenable.
+German sentence: dies ist eine lone lange nicht genug.
+----------------------------------------  val - Epoch 20  ----------------------------------------
+
+----------------------------------------  train - Epoch 21  ----------------------------------------
+English sentence: poll: who will be the next mayor of rovato?
+German sentence: polle: wie wird dann der nächsten mehr für ortovato?
+----------------------------------------  train - Epoch 21  ----------------------------------------
+
+----------------------------------------  val - Epoch 21  ----------------------------------------
+English sentence: in 2011 borussia dortmund stumbled here too.
+German sentence: im jahr 2011 brusis und muster hier zu erhöhen.
+----------------------------------------  val - Epoch 21  ----------------------------------------
+
+----------------------------------------  train - Epoch 22  ----------------------------------------
+English sentence: there is no alternative to the eu reform.
+German sentence: es gibt keine alternative auf dem euro.
+----------------------------------------  train - Epoch 22  ----------------------------------------
+
+----------------------------------------  val - Epoch 22  ----------------------------------------
+English sentence: exquisite folk from sufjan stevens in hamburg
+German sentence: ausstellung für vier janastevens in hamburg
+----------------------------------------  val - Epoch 22  ----------------------------------------
+
+----------------------------------------  train - Epoch 23  ----------------------------------------
+English sentence: place both for the idyllic love between friends and friendly.
+German sentence: platz für die diyllische auswahl freunde finder freundliniert.
+----------------------------------------  train - Epoch 23  ----------------------------------------
+
+----------------------------------------  val - Epoch 23  ----------------------------------------
+English sentence: and they are angry at washington, too.
+German sentence: und sie sind sind sich ein waschen, was geschenkt.
+----------------------------------------  val - Epoch 23  ----------------------------------------
+
+----------------------------------------  train - Epoch 24  ----------------------------------------
+English sentence: these are democracy and transparency.
+German sentence: diese demokratie und transparenz.
+----------------------------------------  train - Epoch 24  ----------------------------------------
+
+----------------------------------------  val - Epoch 24  ----------------------------------------
+English sentence: trumps favorability ratings have turned 180 degrees.
+German sentence: trumps favorbilität sind auch verschiedene 180 des green.
+----------------------------------------  val - Epoch 24  ----------------------------------------
+
+----------------------------------------  train - Epoch 25  ----------------------------------------
+English sentence: manila  visitors are often catalysts for change.
+German sentence: die hauptsteller sind für katalysteile für kanagenturen.
+----------------------------------------  train - Epoch 25  ----------------------------------------
+
+----------------------------------------  val - Epoch 25  ----------------------------------------
+English sentence: in early august, it was 52 percent.
+German sentence: im jahre war es 52 prozent.
+----------------------------------------  val - Epoch 25  ----------------------------------------
+
+----------------------------------------  train - Epoch 26  ----------------------------------------
+English sentence: (applause)
+German sentence: (beifall)
+----------------------------------------  train - Epoch 26  ----------------------------------------
+
+----------------------------------------  val - Epoch 26  ----------------------------------------
+English sentence: roughly three in 10 say they have a negative view.
+German sentence: das 10 sagen sie eine gebene aussicht aus 10 sagen.
+----------------------------------------  val - Epoch 26  ----------------------------------------
+
+----------------------------------------  train - Epoch 27  ----------------------------------------
+English sentence: our farm is ideal for families with children.
+German sentence: unsere farm ist für die familien mit kinder.
+----------------------------------------  train - Epoch 27  ----------------------------------------
+
+----------------------------------------  val - Epoch 27  ----------------------------------------
+English sentence: un chief says there is no military solution in syria
+German sentence: un chife sagt es keine militärische lösung in syrien
+----------------------------------------  val - Epoch 27  ----------------------------------------
+
+----------------------------------------  train - Epoch 28  ----------------------------------------
+English sentence: the debate is closed.
+German sentence: die aussprache ist geschlossen.
+----------------------------------------  train - Epoch 28  ----------------------------------------
+
+----------------------------------------  val - Epoch 28  ----------------------------------------
+English sentence: hes in a dead heat with ted cruz.
+German sentence: sie in einer tote mit dem ted curz.
+----------------------------------------  val - Epoch 28  ----------------------------------------
+
+----------------------------------------  train - Epoch 29  ----------------------------------------
+English sentence: mr marco peronaci deputy permanent representative
+German sentence: marco peroncai stellvertreter des ständigen vertreters
+----------------------------------------  train - Epoch 29  ----------------------------------------
+
+----------------------------------------  val - Epoch 29  ----------------------------------------
+English sentence: lamb grew up in the area.
+German sentence: lamb grünen in der bereich.
+----------------------------------------  val - Epoch 29  ----------------------------------------
+
+----------------------------------------  train - Epoch 30  ----------------------------------------
+English sentence: we should also decide on it in parliament.
+German sentence: wir sollten auch in den parlament entscheiden.
+----------------------------------------  train - Epoch 30  ----------------------------------------
+
+----------------------------------------  val - Epoch 30  ----------------------------------------
+English sentence: and some are holding out for an implosion.
+German sentence: und sind einige hälter aus einer einfachen meinung.
+----------------------------------------  val - Epoch 30  ----------------------------------------
